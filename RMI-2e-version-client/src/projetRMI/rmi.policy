@@ -1,0 +1,5 @@
+grant codeBase "file:/home/karim/Documents/Aigle/S2/ArchiDis/TP/1/RMI-2e-version-CabinetVeterinaire/bin" {
+   permission java.security.AllPermission;
+};
+
+

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="/home/karim/Documents/Aigle/S2/ArchiDis/TP/1/RMI-2e-version-CabinetVeterinaire"/>
+		<item value="/home/karim/Documents/Aigle/S2/ArchiDis/TP/1/RMI-2e-version-client"/>
+		<item value="/home/karim/Documents/Aigle/S2/ArchiDis/TP/1/RMI-1er-version-server"/>
+		<item value="/home/karim/Documents/Aigle/S2/ArchiDis/TP/1/RMI-1er-version-client"/>
+	</list>
+</section>

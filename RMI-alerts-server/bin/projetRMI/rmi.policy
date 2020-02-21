@@ -1,0 +1,6 @@
+grant codeBase "file:/home/karim/Documents/Aigle/S2/ArchiDis/TP/1/RMI-alerts-server/bin"{
+	permission java.io.FilePermission "*", "read,write";
+ 	permission java.util.PropertyPermission "*", "read,write";
+ 	permission java.net.SocketPermission "*:1024-65535", "listen,connect,accept,resolve";
+};
+

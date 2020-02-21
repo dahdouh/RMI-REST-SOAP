@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;RMI-2e-version-client&apos;" deleteContents="false" description="Delete resource &apos;RMI-2e-version-client&apos;" element1="/RMI-2e-version-client" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1582307824282"/>
+</session>

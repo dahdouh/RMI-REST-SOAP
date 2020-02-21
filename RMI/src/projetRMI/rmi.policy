@@ -1,0 +1,3 @@
+grant codeBase "file:/home/eclipse-workspace/RMI/bin/projetRMI/bin/"{
+	permission java.security.AllPermission;
+};

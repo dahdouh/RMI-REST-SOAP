@@ -1,0 +1,4 @@
+grant codeBase "file:/home/karim/eclipse-workspace/RMI-1er-version-server/bin" {
+   permission java.security.AllPermission;
+};
+

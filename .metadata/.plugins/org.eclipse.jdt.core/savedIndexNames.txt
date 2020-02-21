@@ -1,0 +1,7 @@
+INDEX VERSION 1.131+/home/karim/Documents/Aigle/S2/ArchiDis/TP/1/.metadata/.plugins/org.eclipse.jdt.core
+3734664734.index
+3789790289.index
+2093633010.index
+1135847357.index
+3377781732.index
+1417480775.index
